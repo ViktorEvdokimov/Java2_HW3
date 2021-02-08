@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedList;
 
-public class Main {
+public class ArrayWords {
 
     public static void main(String[] args) {
         LinkedList<String> words = new LinkedList<>();
